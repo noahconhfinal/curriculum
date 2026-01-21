@@ -1,0 +1,8 @@
+{
+  "name": "Noah Pieras - Portfolio",
+  "description": "A professional and modern portfolio website for Noah Pieras, featuring experience in emergency services and healthcare information technology.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
